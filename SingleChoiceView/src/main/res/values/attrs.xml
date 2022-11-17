@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SingleChoiceView">
+        <!-- This attr is 0 indexed. you can put -1 for non selection -->
+        <attr name="selectedIndex" format="integer" />
+        <attr name="selectionBckCorner" format="dimension" />
+        <attr name="selectionBckColor" format="color" />
+        <attr name="SelectedTextColor" format="color" />
+        <attr name="unSelectedTextColor" format="color" />
+        <!-- the duration must be in milli seconds. -->
+        <attr name="animationDurationInMillis" format="integer" />
+    </declare-styleable>
+
+</resources>
