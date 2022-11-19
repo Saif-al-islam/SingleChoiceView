@@ -15,7 +15,7 @@ Include the library as a local library project or add the dependency in your bui
 
 ```groovy
 dependencies {
-	   implementation ''
+	   implementation 'com.github.Saif-al-islam:SingleChoiceView:1.0.0'
 	}
 ```
 
