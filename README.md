@@ -1,6 +1,6 @@
 [![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
- [![](https://jitpack.io/v/Saif-al-islam/SlideCounter-Android.svg)](https://jitpack.io/#Saif-al-islam/SlideCounter-Android)
- [![API](https://img.shields.io/badge/API-%2B17-green.svg)]()
+[![](https://jitpack.io/v/Saif-al-islam/SingleChoiceView.svg)](https://jitpack.io/#Saif-al-islam/SingleChoiceView)
+ [![API](https://img.shields.io/badge/API-%2B21-green.svg)]()
 
 **SingleChoiceView** - An Android library that can be used for select item from many items in a row/column.
 
